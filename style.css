@@ -1,0 +1,28 @@
+#заглавие {
+    text-align: center;
+    font-size: 40pt;
+}
+
+p {
+    font-size: 19pt;
+}
+
+li {
+    font-size: 19pt;
+
+}
+
+h3 {
+    font-size: 18pt;
+}
+
+ul {
+    list-style-type: disc;
+
+} 
+
+
+
+#био{
+    list-style: upper-roman;
+}
